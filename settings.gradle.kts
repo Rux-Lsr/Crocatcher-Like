@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Crocatcher-like"
+rootProject.name = "security"
 include(":app")
  

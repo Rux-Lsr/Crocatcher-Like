@@ -1,4 +1,4 @@
-package com.ict.crocatcher_like
+package com.example.security
 
 import org.junit.Test
 
